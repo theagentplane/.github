@@ -7,7 +7,7 @@
   <p><strong>The layer AI agents need underneath them.</strong></p>
 
   <p>
-    <a href="https://www.youtube.com/watch?v=Lc8zRh9muoY"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="YouTube" /></a><a href="https://www.linkedin.com/in/susheemkoul/"><img src="https://img.shields.io/badge/Susheem-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Susheem on LinkedIn" /></a><a href="https://in.linkedin.com/in/tisha-chawla"><img src="https://img.shields.io/badge/Tisha-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Tisha on LinkedIn" /></a><a href="https://theagentplane.github.io"><img src="https://img.shields.io/badge/theagentplane.github.io-111111?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Website" /></a>
+    <a href="https://www.linkedin.com/in/susheemkoul/"><img src="https://img.shields.io/badge/Susheem-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Susheem on LinkedIn" /></a><a href="https://in.linkedin.com/in/tisha-chawla"><img src="https://img.shields.io/badge/Tisha-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Tisha on LinkedIn" /></a><a href="https://theagentplane.github.io"><img src="https://img.shields.io/badge/theagentplane.github.io-111111?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Website" /></a>
   </p>
 </div>
 
