@@ -7,21 +7,7 @@
   <p><strong>The layer AI agents need underneath them.</strong></p>
 
   <p>
-    <a href="https://www.youtube.com/watch?v=Lc8zRh9muoY">
-      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-    </a>
-    &nbsp;
-    <a href="https://www.linkedin.com/in/susheemkoul/">
-      <img src="https://img.shields.io/badge/Susheem-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Susheem on LinkedIn" />
-    </a>
-    &nbsp;
-    <a href="https://in.linkedin.com/in/tisha-chawla">
-      <img src="https://img.shields.io/badge/Tisha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Tisha on LinkedIn" />
-    </a>
-    &nbsp;
-    <a href="https://theagentplane.github.io">
-      <img src="https://img.shields.io/badge/theagentplane.github.io-111111?style=for-the-badge&logoColor=white" alt="Website" />
-    </a>
+    <a href="https://www.youtube.com/watch?v=Lc8zRh9muoY"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="YouTube" /></a><a href="https://www.linkedin.com/in/susheemkoul/"><img src="https://img.shields.io/badge/Susheem-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Susheem on LinkedIn" /></a><a href="https://in.linkedin.com/in/tisha-chawla"><img src="https://img.shields.io/badge/Tisha-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Tisha on LinkedIn" /></a><a href="https://theagentplane.github.io"><img src="https://img.shields.io/badge/theagentplane.github.io-111111?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Website" /></a>
   </p>
 </div>
 
@@ -47,29 +33,17 @@ Monitoring built for stateless services doesn't transfer. Testing frameworks bui
 
 ## 📦 Projects
 
-<a href="https://github.com/theagentplane/chronicle">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=theagentplane&repo=chronicle&theme=dark&hide_border=true&bg_color=0d1117" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=theagentplane&repo=chronicle&hide_border=true" />
-  </picture>
-</a>
-&nbsp;
-<a href="https://github.com/theagentplane/tokenops">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=theagentplane&repo=tokenops&theme=dark&hide_border=true&bg_color=0d1117" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=theagentplane&repo=tokenops&hide_border=true" />
-  </picture>
-</a>
+### [chronicle](https://github.com/theagentplane/chronicle) &nbsp; [![Stars](https://img.shields.io/github/stars/theagentplane/chronicle?style=flat-square&color=gold)](https://github.com/theagentplane/chronicle/stargazers) [![PyPI](https://img.shields.io/pypi/v/agent-chronicle?style=flat-square)](https://pypi.org/project/agent-chronicle/)
 
-<br /><br />
+**Record-and-replay for agent decision graphs.** &nbsp; `pip install agent-chronicle`
 
-**[Chronicle](https://github.com/theagentplane/chronicle)** &nbsp;`pip install agent-chronicle`
+Chronicle instruments every LLM call, tool call, and routing decision as an immutable Envelope. When something breaks in production, that incident becomes a committed regression test — replayable without a single live model call.
 
-Record-and-replay for agent decision graphs. Chronicle instruments every LLM call, tool call, and routing decision as an immutable Envelope. When something breaks in production, that incident becomes a committed regression test — replayable without a single live model call.
+### [tokenops](https://github.com/theagentplane/tokenops) &nbsp; [![Stars](https://img.shields.io/github/stars/theagentplane/tokenops?style=flat-square&color=gold)](https://github.com/theagentplane/tokenops/stargazers) [![PyPI](https://img.shields.io/pypi/v/agent-tokenops?style=flat-square)](https://pypi.org/project/agent-tokenops/)
 
-**[TokenOps](https://github.com/theagentplane/tokenops)** &nbsp;`pip install agent-tokenops`
+**Run-aware token governance for multi-agent systems.** &nbsp; `pip install agent-tokenops`
 
-Run-aware token governance for multi-agent systems. A shared ledger and control plane enforce spend policies across every agent, model call, and tool hop in a workflow — before the next LLM call executes, not after.
+TokenOps governs the *run*, not the request. A shared ledger and control plane enforce spend policies across every agent, model call, and tool hop in a workflow — before the next LLM call executes, not after.
 
 > Chronicle and TokenOps compose: Chronicle records decision boundaries; TokenOps attaches as the cost and governance observer on live crossings.
 
