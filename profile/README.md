@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://theagentplane.github.io">
-    <img src="https://theagentplane.github.io/assets/logo-mark.png" alt="AgentPlane" width="72" />
+    <img src="https://theagentplane.github.io/assets/logo-mark.jpeg" alt="AgentPlane" width="72" />
   </a>
 
   <h2>AgentPlane</h2>
